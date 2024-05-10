@@ -1,2 +1,2 @@
 "use strict";
-module.exports = require("@apidevtools/swagger-express-middleware");
+module.exports = require("swagger-express-middleware");
